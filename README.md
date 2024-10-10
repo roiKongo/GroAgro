@@ -2,5 +2,5 @@
 
 developpement d' une plate forme  d'annonce grossiste
 
-chaque annonceur doit 
+ c'est pas facile avec git hien
 
